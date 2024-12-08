@@ -28,7 +28,7 @@ The project uses the following Azure services:
 6. **Visualization (Power BI)**: Creates dashboards to display trends, comparisons, and performance metrics.
 
 ### Architecture Diagram
-
+![Architecture Diagram](data/Cloud_Management_Architecture_Diagram.jpg)
 
 ## Implementation
 ### 1. Data Ingestion
