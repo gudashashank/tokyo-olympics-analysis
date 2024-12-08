@@ -30,6 +30,9 @@ The project uses the following Azure services:
 ### Architecture Diagram
 ![Architecture Diagram](data/Cloud_Management_Architecture_Diagram.jpg)
 
+## Project Video
+🎥 [Watch the project walkthrough on YouTube](https://www.youtube.com/watch?v=MUiJub80OHM)
+
 ## Implementation
 ### 1. Data Ingestion
 - Tool: Azure Data Factory
