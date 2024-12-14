@@ -1,4 +1,5 @@
 # Tokyo Olympics in Data 🎌
+![Tokyo Olympics in Data](data/tokyo-olympics-in-data---a-project.jpg)
 
 ## Project Overview
 This project aims to build a cloud-based data pipeline using Azure services to analyze and visualize the 2021 Tokyo Olympics dataset. The pipeline integrates data ingestion, transformation, and visualization to unlock insights into athlete demographics, country performance, and event participation.
