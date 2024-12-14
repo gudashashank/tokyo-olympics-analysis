@@ -72,4 +72,4 @@ The project uses the following Azure services:
 
 ---
 
-**Made with 💙 by Shashank Guda**
+**Made with 💙 by [Shashank Guda](https://shashankguda.me)**
