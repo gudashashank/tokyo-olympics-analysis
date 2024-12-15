@@ -54,6 +54,8 @@ The project uses the following Azure services:
 ### 5. Visualization
 - Tool: Power BI
 - Connected directly to Synapse to build interactive dashboards.
+  
+![PowerBI](data/PowerBI_Screenshot.png)
 
 ## Dataset
 - **Source**: [Kaggle - 2021 Tokyo Olympics Dataset](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
