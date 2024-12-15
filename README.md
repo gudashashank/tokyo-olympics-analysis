@@ -54,7 +54,8 @@ The project uses the following Azure services:
 ### 5. Visualization
 - Tool: Power BI
 - Connected directly to Synapse to build interactive dashboards.
-  
+
+#### PowerBI Visualization Screenshot
 ![PowerBI](data/PowerBI_Screenshot.png)
 
 ## Dataset
